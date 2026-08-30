@@ -1,9 +1,7 @@
-# CodeAlpha_DataVisualization
-Data visualization project completed as part of the CodeAlpha Data Analytics Internship using Python, Pandas, and Matplotlib
-CodeAlpha Data Visualization
+#
 Project Overview
 
-This project was completed as part of the CodeAlpha Data Analytics Internship. The objective of this task was to transform raw data into meaningful visualizations using Python and Matplotlib.
+This project was completed as part of the Data Analytics. The objective of this task was to transform raw data into meaningful visualizations using Python and Matplotlib.
 
 Dataset
 
