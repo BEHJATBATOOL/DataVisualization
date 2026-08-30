@@ -1,0 +1,31 @@
+Product,Category,Region,Sales,Quantity,Profit,Month,Payment_Method
+Laptop,Electronics,North,125000,10,18000,January,Card
+Phone,Electronics,South,98000,14,14500,January,Online
+Headphones,Electronics,East,42000,28,9000,January,Card
+Office Chair,Furniture,West,56000,12,11000,January,Cash
+Desk,Furniture,North,45000,9,8000,January,Online
+Tablet,Electronics,South,72000,12,12000,February,Card
+Printer,Electronics,East,38000,8,7000,February,Cash
+Bookshelf,Furniture,West,33000,11,6500,February,Online
+Sofa,Furniture,North,85000,7,15000,February,Card
+Monitor,Electronics,South,61000,13,10500,February,Online
+Keyboard,Electronics,East,25000,25,5500,March,Card
+Mouse,Electronics,West,18000,30,4200,March,Cash
+Laptop,Electronics,North,138000,11,20500,March,Online
+Office Chair,Furniture,South,62000,13,12500,March,Card
+Desk,Furniture,East,52000,10,9500,March,Cash
+Phone,Electronics,West,105000,15,16000,April,Online
+Tablet,Electronics,North,78000,13,13200,April,Card
+Printer,Electronics,South,41000,9,7600,April,Cash
+Sofa,Furniture,East,92000,8,17000,April,Card
+Bookshelf,Furniture,West,36000,12,7100,April,Online
+Headphones,Electronics,North,47000,31,10200,May,Card
+Monitor,Electronics,South,67000,14,11600,May,Online
+Office Chair,Furniture,East,59000,12,11800,May,Cash
+Desk,Furniture,West,48000,10,8800,May,Card
+Laptop,Electronics,South,142000,12,22000,May,Online
+Phone,Electronics,North,112000,16,17400,June,Card
+Keyboard,Electronics,East,28000,27,6200,June,Cash
+Sofa,Furniture,West,88000,8,16200,June,Online
+Tablet,Electronics,South,81000,14,14000,June,Card
+Printer,Electronics,North,44000,10,8300,June,Cash
